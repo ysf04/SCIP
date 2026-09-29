@@ -3,3 +3,17 @@
 
 —Alan J. Perlis (April 1, 1922 – February 7, 1990) 
 
+# 2-
+Is it possible that software is not like anything else, that it is meant to be discarded: that the whole point is to always see it as a soap bubble?
+
+—Alan J. Perlis 
+
+# 3-
+A computer is like a violin. You can imagine a novice trying first a phonograph and then a violin. The latter, he says, sounds terrible. That is the argument we have heard from our humanists and most of our computer scientists. Computer programs are good, they say, for particular purposes, but they aren’t flexible. Neither is a violin, or a typewriter, until you learn how to use it.
+
+—Marvin Minsky, Why Programming Is a Good Medium for Expressing Poorly-Understood and Sloppily-Formulated Ideas
+
+# 4-
+Mathematics provides a framework for dealing precisely with notions of “what is.” Computation provides a framework for dealing precisely with notions of “how to.” 
+
+# 5-
