@@ -1,4 +1,4 @@
-# SCIP
+# Lisp Wizard
 This is my attempt at Structure and Interpretation of Computer Programs Second Edition accommodated by Brian Harvey Berkeley's CS61A
 
 Also, why Scheme and not Python? Read: http://people.eecs.berkeley.edu/~bh/proglang.html
