@@ -7,8 +7,8 @@ Also, why Scheme and not Python? Read: http://people.eecs.berkeley.edu/~bh/progl
 ## Course Outline
 
 Lecture Video | Reading SICP | 
- ---------------- | ------- | 
- Functional Programming | Section 1.1 (pages 1–31) |
+ ------------ | ------- | 
+ #1 | Section 1.1 (pages 1–31) |
 
 
 I'm trying to
