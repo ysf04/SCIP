@@ -1,0 +1,30 @@
+https://www.youtube.com/watch?v=VLbePGBOVeg
+
+Okay, as it says in the title of this video, today's mission is to figure out how many ways there are to make change for one googol, that is 10^100 dollars. The very strange patterns in the answer will surprise, as will the explanation for this phenomenon, promise. 
+
+0:00 Intro
+1:15 Chapter 1: curious count
+9:05 Chapter 2: googol
+14:10 Chapter 3: infinite change
+28:41 Acknowledgements
+
+A very nice Mathematica file created by Andrew Neitsch in 2005 covers pretty much every aspect of change making mathematics. http://andrew.neitsch.ca/publications...
+Here is a pdf version of this file:  https://andrew.neitsch.ca/publication...
+What I cover in the last part of this video is pretty much fleshing out and animating the section "Coin change revisited". All this is part of to Andrew's answer to a post on math.stackoverflow https://stackoverflow.com/questions/1...
+https://stackoverflow.com/questions/1106929/how-to-find-all-combinations-of-coins-when-given-some-dollar-value
+
+The visual algebra approach to calculate the number of ways to make change at the very beginning of this video was inspired by this article G. Pólya, On Picture-Writing, Am Math Monthly 63 (1956), 689-697. https://www.jstor.org/stable/2309555
+https://www.jstor.org/stable/2309555
+
+Concrete mathematics by Graham, Knuth and Patashnik, the book I mentioned at the end of the video does the whole analysis for the coin set 1, 5, 10, 25, 50 (so no dollar coins).
+
+A complete list of all the different ways to make change for a dollar appears in this post https://www.maa.org/frank-morgans-mat...
+
+The book "Generatingfunctionology" by Herbert Wilf,  is a great intro to generating functions  :) https://www2.math.upenn.edu/~wilf/Dow...
+
+Ron Graham to who this video is dedicated did a couple of videos with Numberphile. So if you'd like to see him in action, check out those videos. A lot of other interesting articles about Ron Graham can be found on his wife's (also a math professor) website. 
+http://www.math.ucsd.edu/~fan/ron/
+https://fanchung.ucsd.edu/ron/
+
+https://andrew.neitsch.ca/publications/m496pres1.nb.pdf
+Burkard
